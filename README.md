@@ -1,0 +1,1 @@
+Circuito sperimentale VFO_PLL_SI5351 con Arduino Nano, decodifica RTTY su display TFT. Per il momento, lo sketch di Arduino è disponibile solo su richiesta. Il file Arduino .hex va caricato con XLoader
